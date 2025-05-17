@@ -1,0 +1,4 @@
+Hello World
+Hello Pakistan
+Hello Python
+Hello, I am Learning Python, File Handling in Python
