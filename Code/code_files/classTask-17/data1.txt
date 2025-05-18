@@ -1,0 +1,6 @@
+OpenAI announced on Friday it’s launching a research preview of Codex, the company’s most capable AI coding agent yet.
+Codex is powered by codex-1, a version of the company’s o3 AI reasoning model optimized for software engineering tasks. 
+OpenAI says codex-1 produces “cleaner” code than o3, adheres more precisely to instructions, and will iteratively run tests on its code until passing results are achieved.
+The Codex agent runs in a sandboxed, virtual computer in the cloud. 
+By connecting with GitHub, Codex’s environment can come preloaded with your code repositories. 
+OpenAI says the AI coding agent will take anywhere from one to 30 minutes to write simple features, fix bugs, answer questions about your codebase, and run tests, among other tasks.
